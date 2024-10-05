@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d39d79b-64ae-48ff-9027-8149bbb72791" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/Controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/Controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/DTO/AuthRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/DTO/AuthResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/DTO/EmployeeDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/DTO/TaxDeductionDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/Entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/Exception/AuthenticationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/Exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/Repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/Security/JwtRequestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/Security/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/Security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/Service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/main/java/com/example/Service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/test/java/com/example/Emp_Imagionative/EmployeeControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Emp_Imagionative/src/test/java/com/example/Emp_Imagionative/EmployeeServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2n0ukIf9ZzDoxw6IN1AGinqrIYw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "narendra__emp",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Narendra docs\Employee_Imagionative\Emp_Imagionative\src\main\java\com\example" />
+      <recent name="E:\Narendra docs\Employee_Imagionative\Emp_Imagionative\src\main\java\com\example\Emp_Imagionative" />
+      <recent name="E:\Narendra docs\Employee_Imagionative\Emp_Imagionative\src\main\java\com" />
+      <recent name="E:\Narendra docs\Employee_Imagionative\Emp_Imagionative\src\main" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d39d79b-64ae-48ff-9027-8149bbb72791" name="Changes" comment="" />
+      <created>1728122458262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728122458262</updated>
+    </task>
+    <servers />
+  </component>
+</project>
