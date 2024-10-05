@@ -1,6 +1,6 @@
 Navigate to your working directory and open cmd
 Clone the repository to your local machine using the following command:
-git clone <repository_link>
+git clone https://github.com/narendra423/Emp_Imagionate.git
 To run this project, please follow the steps below:
 Make sure you have the following installed on your local machine:
 Java 17
